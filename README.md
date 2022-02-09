@@ -6,7 +6,7 @@ A repository for all lecture, review, or other resources for the Flatiron School
 
 ## Written Instructions to Connect to This Repository:
 
-We will go through and follow these instructions together in a lecture during Week 1 - no rush! 
+**We will go through and follow these instructions together in a lecture during Week 1 - no rush!** 
 
 1. FORK this repository, creating a copy on your own GitHub account
 
