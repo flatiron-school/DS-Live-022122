@@ -1,6 +1,6 @@
 # DS-Live-022122's Cohort Repository!
 
-A repository for all lecture, review, or other resources for the Flatiron School's Live Data Science 022122 Cohorts (both East and West)
+A repository for all lecture, review, or other resources for the Flatiron School's Live Data Science 022122 Cohort.
 
 ![let's get this party started gif from giphy](https://media.giphy.com/media/ruZUWO7jRWEwTM9BhR/giphy.gif)
 
