@@ -38,4 +38,3 @@ git fetch upstream
 ```
 git merge upstream/main -m "meaningful message about what you're updating"
 ```
-This is a test
