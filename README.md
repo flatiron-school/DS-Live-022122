@@ -1,5 +1,3 @@
-this is al ine form david branch
-
 # DS-Live-022122's Cohort Repository!
 
 A repository for all lecture, review, or other resources for the Flatiron School's Live Data Science 022122 Cohort.
