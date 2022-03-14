@@ -2,7 +2,7 @@
 
 A repository for all lecture, review, or other resources for the Flatiron School's Live Data Science 022122 Cohort.
 
-![let's get this party started gif from giphy](https://media.giphy.com/media/ruZUWO7jRWEwTM9BhR/giphy.gif)
+![yay statistics kermit gif from giphy](https://media.giphy.com/media/9ADoZQgs0tyww/giphy.gif)
 
 ## Written Instructions to Connect to This Repository:
 
