@@ -4,6 +4,8 @@ A repository for all lecture, review, or other resources for the Flatiron School
 
 ![yay statistics kermit gif from giphy](https://media.giphy.com/media/9ADoZQgs0tyww/giphy.gif)
 
+![algorithms!](https://media.giphy.com/media/5dYeglPmPC5lL7xYhs/giphy.gif)
+
 ## Written Instructions to Connect to This Repository:
 
 **We will go through and follow these instructions together in a lecture during Week 1 - no rush!** 
