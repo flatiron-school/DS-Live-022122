@@ -4,6 +4,8 @@ A repository for all lecture, review, or other resources for the Flatiron School
 
 ![algorithms!](https://media.giphy.com/media/5dYeglPmPC5lL7xYhs/giphy.gif)
 
+![choices](https://media.giphy.com/media/ouE6OPO1MADM4/giphy.gif)
+
 ## Written Instructions to Connect to This Repository:
 
 **We will go through and follow these instructions together in a lecture during Week 1 - no rush!** 
