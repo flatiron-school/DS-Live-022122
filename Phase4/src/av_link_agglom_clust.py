@@ -43,11 +43,11 @@ def centrAggClust(X, Y):
         # Start measuring distances
         # Select the first cluster
         for clust1 in range(end - 1):
-            arr_clust1 = np.array(clusts[clust1])
-            
+            arr_clust1 = np.array(clusts[clust1], dtype=object)
+        
             # Select the second cluster
             for clust2 in range(clust1 + 1, end):
-                arr_clust2 = np.array(clusts[clust2])
+                arr_clust2 = np.array(clusts[clust2], dtype=object)
                 
                 dist = 0
                 for pt1 in arr_clust1:
@@ -77,7 +77,7 @@ def centrAggClust(X, Y):
             p_col = num % 4
             if p_row < rows and p_col < cols and rows > 1:
                 ax[p_row, p_col].set_title(f'{end - 1} clusters')
-                ax[p_row, p_col].scatter(np.array(clust)[:, 0], np.array(clust)[:, 1])
+                ax[p_row, p_col].scatter(np.array(clust, dtype=object)[:, 0], np.array(clust, dtype=object)[:, 1])
             else:
                 if p_row < rows and p_col < cols:
                     ax[p_col].set_title(f'{end - 1} clusters')
